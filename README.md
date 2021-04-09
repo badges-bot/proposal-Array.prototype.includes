@@ -1,5 +1,7 @@
 # `Array.prototype.includes` Proposal
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 [Spec](https://tc39.github.io/Array.prototype.includes/)
 
 ## Status
